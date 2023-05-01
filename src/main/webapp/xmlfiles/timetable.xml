@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="timeTable.xsl"?>
+<timeTable>
+    <jour nom="Lundi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="MODELISATION ORIANTEE OBJ" type="TD">
+                <salle>B19</salle>
+                <prof>EL ALAMI</prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+            <cours nom="MODELISATION ORIANTEE OBJ" type="TD">
+                <salle>B19</salle>
+                <prof>EL ALAMI</prof>
+            </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="CYCLE DE VIE LOGICIEL" type="CM">
+                <salle>B19</salle>
+                <prof>BADIR</prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="CYCLE DE VIE LOGICIEL" type="CM">
+                <salle>B19</salle>
+                <prof>BADIR</prof>
+            </cours>
+        </hour>
+    </jour>
+
+    <jour nom="Mardi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="GESTION DES DONNES DIST" type="CM">
+                <salle>B20</salle>
+                <prof>FISSOUNE</prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+            <cours nom="GESTION DES DONNES DIST" type="TP">
+                <salle>B20</salle>
+                <prof>FISSOUNE</prof>
+            </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="PROGRAMMATION SYSTEME" type="TP">
+                <salle>20</salle>
+                <prof>AMECHNOUE</prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="PROGRAMMATION SYSTEME" type="TP">
+                <salle>20</salle>
+                <prof>AMECHNOUE</prof>
+            </cours>
+        </hour>
+    </jour>
+
+    <jour nom="Mercredi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="PROGRAMMATION ORIANTEE OBJ" type="CM">
+                <salle>B19</salle>
+                <prof>EL HADDAD</prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+            <cours nom="PROGRAMMATION ORIANTEE OBJ" type="TP">
+                <salle>B19</salle>
+                <prof>EL HADDAD</prof>
+            </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="PROGRAMMATION SYSTEM" type="CM">
+                <salle>B20</salle>
+                <prof>AMECHNOUE</prof>
+            </cours>
+        </hour>
+    </jour>
+
+    <jour nom="Jeudi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="INTERFACE HOMME MACHINE " type="CM">
+                <salle>B19</salle>
+                <prof>EL ALAMI</prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+                <cours nom="INTERFACE HOMME MACHINE " type="TD">
+                    <salle>B19</salle>
+                    <prof>EL ALAMI</prof>
+                </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="ESPAGNOLE" type="CM">
+                <salle>B22</salle>
+                <prof>LAAMARTI</prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+    </jour>
+
+    <jour nom="Vendredi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="TECHNIQUES DE COMMUNICATION" type="CM">
+                <salle>B19</salle>
+                <prof>ZAAMOUMI</prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+            <cours nom="TECHNIQUES DE COMMUNICATION" type="CM">
+                <salle>B19</salle>
+                <prof>ZAAMOUMI</prof>
+            </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="ASSURANCE CONTROLE QUALITE" type="CM">
+                <salle>A7</salle>
+                <prof>RAHALI AZZOUZI</prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="ASSURANCE CONTROLE QUALITE" type="CM">
+                <salle>A7</salle>
+                <prof>RAHALI AZZOUZI</prof>
+            </cours>
+        </hour>
+    </jour>
+
+    <jour nom="Samedi">
+        <hour durée="8:45 - 10:15">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="10:30 - 12:00">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="12:00 - 14:30">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="14:30 - 16:00">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+        <hour durée="16:15 - 17:45">
+            <cours nom="" type="">
+                <salle></salle>
+                <prof></prof>
+            </cours>
+        </hour>
+    </jour>
+
+</timeTable>
